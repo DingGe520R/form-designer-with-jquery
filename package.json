@@ -13,6 +13,7 @@
   },
   "homepage": "https://school.thoughtworks.cn",
   "dependencies": {
+    "jQuery": "^1.7.4",
     "jquery": "3.2.1",
     "lodash": "^4.17.4"
   }
